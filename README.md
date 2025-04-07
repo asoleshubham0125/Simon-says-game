@@ -43,11 +43,4 @@ simon-says-game
 
 ![image](https://github.com/user-attachments/assets/dc1bb472-1463-4488-8e9b-7b17d6cd7852)
 
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
 Made with 💙 by Shubham Asole
